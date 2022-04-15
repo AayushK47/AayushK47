@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush 👋
 
-## I am an Assistant Software Engineer at TCS  
+## I am a Software Engineer at [Squareboat](https://www.squareboat.com)
 
 - 🔭 I’m currently working on multiple full-stack projects.
 
