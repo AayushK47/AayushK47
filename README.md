@@ -25,9 +25,10 @@
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayushK47&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AayushK47&theme=github_dark&utcOffset=5)
 
-## Certifications
+## Badges
 
-![AWS CCP](https://acclaim-production-app.files.credly.com/uploads/baked_badge_image/image/6c090ec0-062d-4243-bffb-6bce83757260/aws-certified-cloud-practitioner.png?response-content-disposition=attachment&X-Amz-Expires=86400&X-Amz-Date=20221002T060717Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJLA3MEMCDJNPNG2Q%2F20221002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3fd174c70ba7769b2190427f03cf7f198b6f6c6d8ad2583237966625e2c25be2)
+[@aayushk47's Holopin board](https://raw.githubusercontent.com/AayushK47/AayushK47/main/assets/ccp-badge.png)
+[![@aayushk47's Holopin board](https://holopin.me/aayushk47)](https://holopin.io/@aayushk47)
 
 
 ## Connect with me
