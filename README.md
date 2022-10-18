@@ -33,4 +33,4 @@
 
 ## Connect with me
 
-[![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://aayushkuurup.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushk47/) [![Blog](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://medium.com/@imthepk) [![Twitter](https://img.shields.io/twitter/follow/AayushK_47?logo=Twitter&style=for-the-badge)](https://twitter.com/AayushK_47)
+[![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://aayushkuurup.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushk47/) [![Blog](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://blogs.aayushkurup.dev/) [![Hashnode](https://img.shields.io/twitter/follow/AayushK_47?logo=Twitter&style=for-the-badge)](https://twitter.com/AayushK_47)
