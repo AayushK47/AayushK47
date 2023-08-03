@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush 👋
 
-## I am a Software Engineer at [Squareboat](https://www.squareboat.com)
+## I am a Software Engineer at [Orah](https://www.orah.com)
 
 - 🔭 I’m currently working on multiple full-stack projects.
 
