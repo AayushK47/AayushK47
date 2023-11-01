@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush 👋
 
-## I am a Software Engineer at [Orah](https://www.orah.com)
+## I am a Software Engineer at [Saama](https://www.saama.com)
 
 - 🔭 I’m currently working on multiple full-stack projects.
 
