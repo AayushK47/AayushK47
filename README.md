@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on multiple full-stack projects.
 
-- 🌱 I’m currently learning a lot of JS frameworks and Libraries.
+- 🌱 I’m currently learning a lot of Golang, AWS and data engineering.
 
 - ❤️ Two things that I really love doing:- 
 
